@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-number {
+  background-color: rgb(255, 143, 143);
+  font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+#number-two {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.text-2xl {
+  font-size: 24px;
+}
+
+#number-four {
+  background-color: rgb(105, 238, 105);
+  font-weight: bold;
+}
